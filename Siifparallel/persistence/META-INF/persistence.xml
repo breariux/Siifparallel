@@ -46,7 +46,7 @@
 			<property name="hibernate.connection.driver_class" value="oracle.jdbc.driver.OracleDriver"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.OracleDialect"/>
             <property name="hibernate.connection.url" value="jdbc:oracle:thin:@172.17.0.3:1521:siifx"/>
-            <property name="hibernate.connection.username" value="SBETANCURG"/>
+            <property name="hibernate.connection.username" value="SBETANCURGA"/>
             <property name="hibernate.connection.password" value="hy6ki8ju7"/>
         </properties>
     </persistence-unit>    
